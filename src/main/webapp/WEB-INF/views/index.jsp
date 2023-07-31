@@ -4,7 +4,7 @@
 <body>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
-    <h2>톰캣 서버 수정</h2>
+    <h2>change by hokyun date : 2023.07.31</h2>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
